@@ -9,5 +9,8 @@
   "scripts": {
     "start": "node index.js",
     "prestart": "tsc"
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0"
   }
 }
