@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/jukoku/typechain",
   "author": "Jinho Chun <jukoku@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
 }
